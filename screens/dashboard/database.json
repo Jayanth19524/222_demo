@@ -1,0 +1,83 @@
+{
+    "dashboardData": [
+      {
+        "id": "1",
+        "details": "123 Main Street, E1 6QR",
+        "city": "London",
+        "type": "residential",
+        "certs": [
+          {
+            "type": "Energy Certificate",
+            "expiryDate": "15/11/2023",
+            "priority": "high",
+            "uri": "./plus.png"
+          },
+          {
+            "type": "Gas Certificate",
+            "expiryDate": "20/12/2023",
+            "priority": "high",
+            "uri": "./plus.png"
+          },
+          {
+            "type": "EPC Certificate",
+            "expiryDate": "25/01/2024",
+            "priority": "mid",
+            "uri": "./plus.png"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "details": "456 Elm Avenue, M4 5JK",
+        "city": "Manchester",
+        "type": "commercial",
+        "certs": [
+          {
+            "type": "Energy Certificate",
+            "expiryDate": "10/10/2023",
+            "priority": "high",
+            "uri": "./plus.png"
+          },
+          {
+            "type": "Gas Certificate",
+            "expiryDate": "18/12/2023",
+            "priority": "high",
+            "uri": "./plus.png"
+          },
+          {
+            "type": "EPC Certificate",
+            "expiryDate": "22/02/2024",
+            "priority": "low",
+            "uri": "./plus.png"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "details": "789 Oak Road, B2 3LM",
+        "city": "Birmingham",
+        "type": "residential",
+        "certs": [
+          {
+            "type": "Energy Certificate",
+            "expiryDate": "05/09/2023",
+            "priority": "high",
+            "uri": "./plus.png"
+          },
+          {
+            "type": "Gas Certificate",
+            "expiryDate": "15/11/2023",
+            "priority": "high",
+            "uri": "./plus.png"
+          },
+          {
+            "type": "EPC Certificate",
+            "expiryDate": "20/01/2024",
+            "priority": "mid",
+            "uri": "./plus.png"
+          }
+        ]
+      }
+    ]
+  }
+  
